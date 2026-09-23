@@ -6,11 +6,11 @@
 
 ## ダウンロード
 
-右側の「**Releases**」から、最新版の `KageriEditor-1.0.1-setup.exe` をダウンロードしてください。
+右側の「**Releases**」から、最新版の `KageriEditor-1.0.2-setup.exe` をダウンロードしてください。
 
 ## 入れ方
 
-1. ダウンロードした `KageriEditor-1.0.1-setup.exe` をダブルクリックします。
+1. ダウンロードした `KageriEditor-1.0.2-setup.exe` をダブルクリックします。
 2. 「WindowsによってPCが保護されました」という青い画面が出たら、「**詳細情報**」→「**実行**」を押してください。作者の署名が付いていないため出る警告です。
 3. 画面にしたがって進めてください。**管理者の許可は要りません。**
    - 入れ場所は `C:\Users\（あなたの名前）\AppData\Local\Programs\KageriEditor` です。
