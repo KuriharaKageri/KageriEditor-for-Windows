@@ -1,6 +1,6 @@
 # KageriEditor（Windows版）プライバシーポリシー
 
-最終更新：2026年9月29日　作者：KAGERI KURIHARA
+最終更新：2026年9月30日　作者：KAGERI KURIHARA
 
 ## 集める情報
 
@@ -15,8 +15,9 @@
 
 - **原稿**：利用者が選んだ保存フォルダに、ふつうのテキストファイルとして保存します。
 - **設定**：書体・文字サイズ・保存フォルダの場所・最近開いたファイルの一覧などを、利用者のパソコンの中（AppData フォルダ）に保存します。
+- **版の履歴**：保存や整形のたびに、その時点の本文を、利用者のパソコンの中（AppData フォルダ）に残します。ほかの端末とは同期しません。
 
-どちらも、このアプリが外部へ送ることはありません。
+いずれも、このアプリが外部へ送ることはありません。
 
 ## ほかのサービスとの関係
 
@@ -30,4 +31,4 @@ kageri.info@gmail.com
 
 # Privacy Policy (English)
 
-KageriEditor does not collect any personal information. The app never connects to the internet, sends no telemetry, shows no ads, and requires no account. Your manuscripts are saved as plain text files in the folder you choose, and settings are stored locally on your PC. If you choose a folder synchronized by a service such as Dropbox or OneDrive, that service's own software handles synchronization. Contact: kageri.info@gmail.com
+KageriEditor does not collect any personal information. The app never connects to the internet, sends no telemetry, shows no ads, and requires no account. Your manuscripts are saved as plain text files in the folder you choose; settings and the version history (earlier copies of your text kept on each save) are stored locally on your PC and are never synchronized or sent anywhere. If you choose a folder synchronized by a service such as Dropbox or OneDrive, that service's own software handles synchronization. Contact: kageri.info@gmail.com
